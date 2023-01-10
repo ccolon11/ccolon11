@@ -1,4 +1,4 @@
-### Hi there 👋, I´m Carlos Colón
+# Hi there 👋, I´m Carlos Colón
 
 - 🔭 I’m currently working on personal projects and third parties.
 - 🌱 I’m currently learning java.
@@ -7,9 +7,12 @@
 - 💬 Ask me about whatever you want in terms of programming and my experience.
 - 📫 How to reach me: https://www.linkedin.com/in/ccolondev/
 - ⚡ Fun fact: I try to strive to learn every day!
-##Connect with me:
+
+## Connect with me:
 [Linkedin pages](https://www.linkedin.com/in/ccolondev/)
-##Languages and Tools:
-[JAVA pages](https://www.java.com/)
-[Git pages](https://git-scm.com/)
+
+## Languages and Tools:
+![This is an image of java](https://java.com/imagen.jpg)](https://www.java.com/)
+
+![This is an image of git](https://git.com/imagen.jpg)] (https://git-scm.com/)
 
